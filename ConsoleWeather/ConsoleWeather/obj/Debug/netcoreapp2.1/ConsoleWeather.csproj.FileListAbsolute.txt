@@ -1,0 +1,11 @@
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\bin\Debug\netcoreapp2.1\ConsoleWeather.deps.json
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\bin\Debug\netcoreapp2.1\ConsoleWeather.runtimeconfig.json
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\bin\Debug\netcoreapp2.1\ConsoleWeather.runtimeconfig.dev.json
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\bin\Debug\netcoreapp2.1\ConsoleWeather.dll
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\bin\Debug\netcoreapp2.1\ConsoleWeather.pdb
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\obj\Debug\netcoreapp2.1\ConsoleWeather.csprojAssemblyReference.cache
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\obj\Debug\netcoreapp2.1\ConsoleWeather.csproj.CoreCompileInputs.cache
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\obj\Debug\netcoreapp2.1\ConsoleWeather.AssemblyInfoInputs.cache
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\obj\Debug\netcoreapp2.1\ConsoleWeather.AssemblyInfo.cs
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\obj\Debug\netcoreapp2.1\ConsoleWeather.dll
+C:\Users\Domo\source\repos\ConsoleWeather\ConsoleWeather\obj\Debug\netcoreapp2.1\ConsoleWeather.pdb
