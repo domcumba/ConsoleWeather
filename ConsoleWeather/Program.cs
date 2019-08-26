@@ -73,7 +73,7 @@ namespace ConsoleWeather
         {
             string city = Console.ReadLine();
 
-            string key = "d8deb97828f1d952b222d105893bbcfc";
+            string key = "YOURKEYHERE";
 
             string url = string.Format("http://api.openweathermap.org/data/2.5/weather?q=" + city + "&APPID=" + key);
 
